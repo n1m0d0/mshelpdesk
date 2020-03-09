@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">30dp</dimen>
+    <dimen name="text">20dp</dimen>
+    <dimen name="layoutPadding">10dp</dimen>
+    <dimen name="cardPadding">10dp</dimen>
+    <dimen name="cardRadius">10dp</dimen>
+    <dimen name="cardStroke">2dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Helpdesk</string>
+    <string name="url">https://f3nr1r.000webhostapp.com/</string>
+    <string name="login">Login</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="start">Inicio</string>
+    <string name="welcomeLogin">Bienvenido</string>
+    <string name="alertLogin">Debe completar todos los datos</string>
+    <string name="forms">Formularios</string>
+    <string name="registered">Registrados</string>
+</resources>
